@@ -3,10 +3,10 @@ A python program that parse HLA.dat file to generate a table (including ID, exon
 
 **DAT file from IPD-IMGT/HLA**
 
-Data can be download from 
+IPD-IMGT/HLA Data can be download from 
 https://www.ebi.ac.uk/ipd/imgt/hla/download.html
 
-Format: 
+DAT Format information: 
 https://github.com/ANHIG/IMGTHLA/blob/Latest/Manual.md
 
 **Table column**
