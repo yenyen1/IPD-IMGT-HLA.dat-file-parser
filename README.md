@@ -8,7 +8,7 @@ https://github.com/ANHIG/IMGTHLA/blob/Latest/Manual.md
 **Table column**
 1. basic info: ID, length, class, gene, ethnic
 2. field name: 4_field, 3_field, 2_field
-3. position (suffix "_s" means start, "_e" means end): 
+3. position: (suffix "_s" means start position, "_e" means end position) 
 
    3.1  UTR1_s, UTR1_e, UTR2_s, UTR2_e
     
