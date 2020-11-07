@@ -14,11 +14,11 @@ https://github.com/ANHIG/IMGTHLA/blob/Latest/Manual.md
 2. field name: 4_field, 3_field, 2_field
 3. position: (suffix "_s" means start position, "_e" means end position) 
 
-   3.1  UTR1_s, UTR1_e, UTR2_s, UTR2_e
+   -  UTR1_s, UTR1_e, UTR2_s, UTR2_e
     
-   3.2  exon1_s, exon1_e, ..., exon8_s, exon8_e
+   -  exon1_s, exon1_e, ..., exon8_s, exon8_e
     
-   3.3  intron1_s, intron1_e, ..., intron8_s, intron8_e
+   -  intron1_s, intron1_e, ..., intron8_s, intron8_e
     
    Note: 'NA' if not exist.
 
